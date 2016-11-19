@@ -3,6 +3,8 @@
 # Logs
 logs
 *.log
+# Visual Studio Code
+.vscode
 
 # Runtime data
 pids
