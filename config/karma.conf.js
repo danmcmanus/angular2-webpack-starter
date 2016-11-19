@@ -1,5 +1,5 @@
 /**
- * @author: @AngularClass
+ * 
  */
 
 module.exports = function(config) {

@@ -42,8 +42,9 @@ type StoreType = {
     HomeComponent,
     NoContentComponent,
     XLarge
-  ],
+],
   imports: [ // import Angular's modules
+
     BrowserModule,
     FormsModule,
     HttpModule,

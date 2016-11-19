@@ -20,7 +20,7 @@ console.log('`About` component loaded asynchronously');
     </div>
     <div>
       <h3>
-        patrick@AngularClass.com
+
       </h3>
     </div>
     <pre>this.localState = {{ localState | json }}</pre>
